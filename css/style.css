@@ -1,0 +1,54 @@
+body {
+    background: #f8f8f8;
+}
+
+.header-menu {
+    display: block;
+}
+
+.header-menu-child {
+    list-style-type: none;
+    font-size: 20px;
+    color: #000000;
+    font-family: Helvetica, sans-serif;
+}
+.product-image {
+   border: 4px solid #000000;
+}
+.item-info {
+    color:#000000;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+.product-characteristics {
+    list-style-type: none;
+    display: inline;
+    font-width: 250;
+    font-family: Helvetica, sans-serif;
+}
+.product-details {
+    color: #484343;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    text-align: left;
+
+}
+.product-info {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.contact-form {
+    width: 180px;
+    height: 10px;
+    color: #484343;
+}
+.contact-form-topic {
+    color: #484343;
+    width: 320px;
+    height: 320px;
+}
